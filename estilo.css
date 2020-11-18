@@ -1,0 +1,42 @@
+body{
+  background-color: black;
+}
+.caja{
+  background: white;
+  width: 500px;
+  height: 300px;
+  margin: 200px 400px
+}
+div.subcaja1{
+  display: inline-block;
+  width: 100%;
+}
+h1{
+  float: left;
+  margin: 20px 10px;
+}
+img{
+  float: right;
+  margin: 10px;
+  width: 10%;
+}
+div.subcaja2{
+  display: inline-block;
+  width: 100%;
+}
+.texto{
+  float: left;
+  margin: 10px;
+  width: 50%;
+}
+.form{
+  float: right;
+  margin-top: 0;
+  margin-left: 0px;
+  margin-right:10px;
+}
+div.subcaja3{
+  width: 100%;
+  margin-left: 200px;
+  margin-top: 5px;
+}
